@@ -1,0 +1,4 @@
+mcl_core
+mcl_enchanting
+mcl_inventory
+mcl_sounds
